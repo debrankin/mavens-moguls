@@ -1,0 +1,9 @@
+Sitemap: http://mavensandmoguls.com/sitemap.xml
+User-Agent: *
+  Allow: /
+  Disallow:/2014/
+  Disallow: /Templates/
+  Disallow: /site-archive/
+  Disallow: /test/
+   Disallow: /old-site/
+
